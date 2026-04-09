@@ -8,8 +8,6 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 -  Thank You for visiting😀
 
-> ## Preview:
-![Preview.png](https://github.com/suvarna662/Modern-Portfolio-Website-Template/blob/main/preview.png)
 
 
 
